@@ -60,7 +60,7 @@ const unsigned char intPin = 4;
 // led variables
 uint8_t rowNum = 5; // number of rows
 uint8_t colNum = 8; // number of columns
-#define PIN 11 // If you haven't enabled audio this must be PIN 6
+#define PIN 6 // If you haven't enabled audio this must be PIN 6
                // If you have enabled audio, change it to PIN 11
 Adafruit_NeoPixel panel = Adafruit_NeoPixel(rowNum * colNum, PIN, NEO_GRB + NEO_KHZ800);
 
