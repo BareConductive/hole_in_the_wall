@@ -23,9 +23,6 @@ Connect anything conductive to each electrode to create an interface for the gam
 ## Requirements
 * You should make sure that you have followed our [Setting up Arduino with your Touch Board](http://www.bareconductive.com/make/setting-up-arduino-with-your-touch-board/) tutorial before using this (or any other) of our code examples
 
-## License 
-This code example is licensed under the MIT license. See [LICENSE.md](https://github.com/BareConductive/hole_in_the_wall/blob/public/LICENSE.md) for details. 
-
 
 ## Install
 1. Close the Arduino IDE if you have it open.
